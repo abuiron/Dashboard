@@ -13,7 +13,7 @@ This repository contains a dashboard application built using React and Vite. The
 - [License](#license)
 - [Contact](#contact)
 ## Live Demo
- - check the live demo click it https://abuiron.github.io/dashboard/
+ - check the live demo click it https://abuiron.github.io/Dashboard/
 
 ## Features
 
